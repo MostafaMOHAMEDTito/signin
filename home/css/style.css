@@ -1,0 +1,16 @@
+.bg-info {
+  height: 100vh;
+  background: linear-gradient(
+    0deg,
+    rgb(98, 166, 211) 0%,
+    rgb(43, 91, 153) 100%
+  )
+}
+.bg-info h1 {
+  height: 60px;
+}
+.bg-info a {
+  height: 25px;
+  background-color: rgba(0, 255, 255, 0.555);
+  border-radius: 40px;
+}
